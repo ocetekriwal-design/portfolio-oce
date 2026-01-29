@@ -197,8 +197,8 @@ const App: React.FC = () => {
           </h2>
           
           <div className="flex flex-col gap-8 items-center">
-            <a href="mailto:hello@ocetekriwal.com" className="text-4xl md:text-7xl font-pixel hover:text-[#FF007F] transition-all underline decoration-4 underline-offset-[12px] decoration-[#FF007F]">
-              hello@ocetekriwal.com
+            <a href="mailto:oce20092003@gmail.com" className="text-4xl md:text-7xl font-pixel hover:text-[#FF007F] transition-all underline decoration-4 underline-offset-[12px] decoration-[#FF007F]">
+              oce20092003@gmail.com
             </a>
             
             <div className="flex flex-wrap justify-center gap-8 md:gap-24 mt-12">
