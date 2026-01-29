@@ -202,7 +202,7 @@ const App: React.FC = () => {
             </a>
             
             <div className="flex flex-wrap justify-center gap-8 md:gap-24 mt-12">
-              <a href="https://www.instagram.com/" className="text-2xl font-pixel text-[#FF007F] hover:text-white transition-colors">INSTAGRAM</a>
+              <a href="https://www.instagram.com/ocetekriwal/" className="text-2xl font-pixel text-[#FF007F] hover:text-white transition-colors">INSTAGRAM</a>
               <a href="#" className="text-2xl font-pixel text-[#FF007F] hover:text-white transition-colors">LINKEDIN</a>
               <a href="#" className="text-2xl font-pixel text-[#FF007F] hover:text-white transition-colors">BEHANCE</a>
             </div>
