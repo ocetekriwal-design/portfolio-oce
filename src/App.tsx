@@ -48,7 +48,7 @@ const App: React.FC = () => {
              <div className="border-4 border-[#FF007F] p-6 bg-black flex flex-col gap-4 max-w-[240px]">
                 <div className="flex justify-between items-center text-xs text-[#FF007F]">
                   <span>V_CORE: 2.5</span>
-                  <PixelIcon type="crosshair" size={16} />
+                  <PixelIcon type="arrow" size={16} />
                 </div>
                 <div className="h-px bg-[#FF007F]/30 w-full" />
                 <p className="text-sm font-grotesk text-white uppercase leading-tight">
