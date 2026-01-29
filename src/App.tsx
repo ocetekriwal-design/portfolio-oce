@@ -112,7 +112,7 @@ const App: React.FC = () => {
                 <div className="flex items-center justify-between">
                   <div className="flex gap-2">
                     {project.tags.map(tag => (
-                      <span key={tag} className="text-[12px] bg-black text-white font-pixel px-2 py-0.5 border border-[#FF007F]">
+                      <span key={tag} className="text-[20px] bg-black text-white font-pixel px-2 py-0.5 border border-[#FF007F]">
                         {tag}
                       </span>
                     ))}
